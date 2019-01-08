@@ -1,0 +1,17 @@
+{
+    "name": "xiao/blog",
+    "description": "test php",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "lvxiaolong",
+            "email": "beyondmars3@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"app\\": "app/"}
+    }
+}
